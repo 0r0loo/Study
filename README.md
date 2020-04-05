@@ -18,23 +18,33 @@
 
 ## BootStrap
 
-## React
+
 
 ------
 
-# 언어
+# 자바
 
 ## Java
 
+
+
+------
+
+
+
+# 자바스크립트
+
 ## JavaScript
 
-### jQeury
+## ES6
 
-### Ajax
+## jQuery
 
-### ES6
+## Ajax
 
+## React
 
+## node.js
 
 
 
@@ -46,7 +56,11 @@
 
 ## ORACLE
 
+## MySQL
+
 ## mongoDB
+
+## JPA
 
 
 
@@ -62,7 +76,27 @@
 
 ## srping boot
 
-## node.js
 
 
+------
+
+# 자료구조
+
+## 자바 자료구조
+
+
+
+
+
+------
+
+
+
+# 형상 관리
+
+## Git
+
+
+
+------
 

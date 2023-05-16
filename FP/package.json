@@ -1,0 +1,16 @@
+{
+  "name": "FP",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}

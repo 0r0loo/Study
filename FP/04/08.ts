@@ -159,4 +159,4 @@ console.log(
     `
 );
 
-export {};
+export { map, some, none };
